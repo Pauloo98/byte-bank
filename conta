@@ -1,0 +1,10 @@
+\\ aprendizado java
+
+public class Conta {
+
+  int agencia;
+  int numero;
+  
+
+
+}
